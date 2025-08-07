@@ -1,182 +1,139 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="35" /> **Nick Ahmadi** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🚀 Software Engineer | AI Enthusiast | System Architect 🚀  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**`Crafting Intelligent Solutions • Building Tomorrow's Tech Today`**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://applicore.ir)
-[![Email](https://img.shields.io/badge/📧_Contact-4ECDC4?style=for-the-badge&logoColor=white)](mailto:nicahmadi99@gmail.com)
-
----
-
-### 🌐 **Connect With Me**
-
-<a href="https://x.com/nicahmadi"><img src="https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nicahmadi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/13850091/nick-ahmadi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://www.instagram.com/nicahmadi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35" /> **About Me**
-
-<table>
-<tr>
-<td width="50%">
-
-**🎯 What I Do:**
-- **Android Development** → Native apps that perform
-- **Backend Engineering** → Laravel systems that scale  
-- **AI & Machine Learning** → Intelligence that thinks
-- **IoT Solutions** → Devices that connect everything
-
-</td>
-<td width="50%">
-
-**💡 My Philosophy:**
-```
-Code with Purpose
-Build with Passion  
-Scale with Intelligence
-Connect with Innovation
-```
-
-</td>
-</tr>
-</table>
-
-> *"Transforming complex ideas into elegant, working solutions that make a real impact."*
-
-**🚀 [Explore My Full Portfolio](https://applicore.ir)**
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> **Technology Arsenal**
-
-<details open>
-<summary><b>🔥 Core Languages & Frameworks</b></summary>
-<br>
-
-**Mobile & Cross-Platform**
-<div>
-<img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio&theme=dark" />
-</div>
-
-**Backend & Web**  
-<div>
-<img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,mysql&theme=dark" />
-</div>
-
-**AI & Data Science**
-<div>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="48" />
-</div>
-
-**Systems Programming**
-<div>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,unity&theme=dark" />
-</div>
-
-</details>
-
-<details>
-<summary><b>⚡ Development Tools & Environment</b></summary>
-<br>
-
-**Version Control & Build**
-<div>
-<img src="https://skillicons.dev/icons?i=git,gradle,maven,docker&theme=dark" />
-</div>
-
-**IDEs & Editors**
-<div>
-<img src="https://skillicons.dev/icons?i=idea,phpstorm,pycharm,vscode,eclipse&theme=dark" />
-</div>
-
-**Platforms & Services**
-<div>
-<img src="https://skillicons.dev/icons?i=firebase,wordpress,github,gitlab,linux,ubuntu,windows&theme=dark" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="48" />
-</div>
-
-**Testing & API**
-<div>
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" width="48" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="48" />
-</div>
-
-</details>
-
-<details>
-<summary><b>🎨 Design & Creative Tools</b></summary>
-<br>
-
-<div>
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,premiere&theme=dark" />
-</div>
-
-</details>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" /> **GitHub Analytics**
-
-<div align="center">
-<table>
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicahmadi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicahmadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicahmadi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="35" /> **Support My Work**
-
-<div align="center">
-
-*Like what you see? Consider supporting my open-source contributions!*
-
-<a href="https://www.coffeebede.com/nicahmadi">
-<img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="220" alt="Buy me a coffee"/>
-</a>
-
-**☕ Every coffee fuels the next innovation!**
-
-</div>
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="40" />
+</p>
+<h1 align="center">👋 Hey there, Code Explorer!</h1>
+<p align="center">
+  <a href="https://applicore.ir">
+    <img src="nicahmadi99@gmail.com.png" alt="Visit my portfolio" width="150" />
+  </a>
+</p>
+<p align="center">
+  <em>Building apps that vibe, backends that scale, and systems that think.</em>
+</p>
 
 ---
 
 <div align="center">
-
-**⭐ Star my repositories if they help you!**
-
-```
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-```
-
-<img src="https://komarev.com/ghpvc/?username=nicahmadi&style=for-the-badge&color=58A6FF" />
-
+  <a href="https://x.com/nicahmadi" target="_blank">
+    <img src="https://img.shields.io/badge/-X-%23151B23?logo=x&logoColor=white&style=flat-square" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicahmadi/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%2329146b?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/13850091/nick-ahmadi" target="_blank">
+    <img src="https://img.shields.io/badge/-StackOverflow-%23ff9900?logo=stackoverflow&logoColor=white&style=flat-square" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.instagram.com/nicahmadi/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23e33811?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" />
+  </a>
 </div>
+
+---
+
+## 🚀 About Me
+I'm a **Software Engineer** who crafts **Android apps** that perform like a dream, **Laravel backends** that scale effortlessly, and **AI systems** that think smarter. From fine-tuning native apps to building IoT devices and training deep learning models, I turn ideas into reality.
+
+🔗 **Got an idea?** Let's make it happen: <a href="mailto:nicahmadi99@gmail.com">nicahmadi99@gmail.com</a>  
+🌐 **Explore more:** <a href="https://applicore.ir">My Portfolio</a>
+
+---
+
+## 🛠️ My Tech Stack
+
+### Languages
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="40" title="Kotlin" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" title="Java" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="40" title="Dart" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" title="Python" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40" title="PHP" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" title="HTML" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" title="CSS" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="40" title="C" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" title="C++" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="40" title="C#" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" title="Android" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ktor-Dark.svg" width="40" title="Ktor" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" title="Flutter" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="40" title="Laravel" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40" title="Tailwind CSS" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" title="MySQL" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="40" title="OpenCV" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="40" title="TensorFlow" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" width="40" title="PyTorch" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="40" title="ScikitLearn" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="40" title="Unity" />
+</p>
+
+### Tools
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" title="Git" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="40" title="Gradle" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="40" title="Maven" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" title="Docker" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="40" title="Postman" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" width="40" title="Anaconda" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="40" title="Arduino" />
+</p>
+
+### IDEs
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="40" title="Android Studio" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="40" title="IntelliJ IDEA" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="40" title="PhpStorm" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width="40" title="PyCharm" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="40" title="Eclipse" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" title="VS Code" />
+</p>
+
+### Platforms
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" title="Firebase" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="40" title="WordPress" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" title="GitHub" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="40" title="GitLab" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="40" title="Stack Overflow" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="40" title="Discord" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" title="Linux" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="40" title="Ubuntu" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="40" title="Windows" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="40" title="Kali Linux" />
+</p>
+
+### Design
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" title="Figma" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="40" title="Adobe XD" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="40" title="Photoshop" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="40" title="Illustrator" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="40" title="Premiere Pro" />
+</p>
+
+---
+
+## 🎉 Fun Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicahmadi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicahmadi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## ☕ Support My Work
+If you like what I do, consider buying me a coffee to keep the code flowing! 😄
+
+<p align="center">
+  <a href="https://www.coffeebede.com/nicahmadi">
+    <img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200" alt="Buy me a coffee" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>✨ Code with passion, build with purpose.</em>
+</p>
