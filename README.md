@@ -20,9 +20,7 @@
 
 <b>
   <p>
-    I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think. 🤖📱<br><br>
-    From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.⚡🌐<br><br>
-    I don’t do pretty buttons — I do the logic that makes them work.<br><br>
+    I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think.From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.Let’s turn your ideas into real, working solutions.
     <a href="mailto:nicahmadi99@gmail.com">Let’s build something real. 📩</a>
   </p>
 </b>
