@@ -4,16 +4,13 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
 
-<a href="https://mghn.info"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
+<a href="https://applicore.ir"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
 
 <div align="center">
 <a href="https://x.com/nicahmadi" target="_blank"><img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/mohammad-mohagheghian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://dev.to/mohammad-mghn" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> 
-<a href="https://codesandbox.io/u/mohammad-mghn" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandBox-20757d.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
-<a href="https://stackoverflow.com/users/16104004/mohammad-mghn" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> 
-<a href="https://www.instagram.com/mohammad__mohagheghian/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-<a href="https://www.npmjs.com/~vito.mohagheghian" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-cc0505?&style=for-the-badge&logo=NPM&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nicahmadi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://https://stackoverflow.com/users/13850091/nick-ahmadi" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> 
+<a href="https://www.instagram.com/nicahmadi/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </div>
 
 <h2>About Me 📖</h2>
@@ -25,7 +22,7 @@
   </p>
 </b>
 
-<h3><a href="https://mghn.info">More on My Portfolio</a></h3>
+<h3><a href="https://applicore.ir">More on My Portfolio</a></h3>
 
 <h2>My Current Tech Stack 🚀</h2>
 
