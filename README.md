@@ -1,9 +1,10 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" />
 	Ayy, look who’s here!
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
 
-<a href="https://applicore.ir"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
+<img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
 
 <div align="center">
 <a href="https://x.com/nicahmadi" target="_blank"><img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
@@ -20,10 +21,6 @@
     Let’s turn your ideas into real, working solutions. <a href="mailto:nicahmadi99@gmail.com">Let’s connect 📩</a>
   </p>
 </b>
-
-<h3><a href="https://applicore.ir">More on My Portfolio</a></h3>
-
-<h2>My Current Tech Stack 🚀</h2>
 
 <h3>Skills & Tools</h3>
 <div>
