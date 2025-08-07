@@ -4,7 +4,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
 
-<a href="https://mghn.info"><img src="github.profile.ts.png" alt="Click to visit my portfolio"></a>
+<a href="https://mghn.info"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
 
 <div align="center">
 <a href="https://x.com/nicahmadi" target="_blank"><img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohammad-mohagheghian/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/mohammad-mghn" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev_To-7c31e3?&style=for-the-badge&logo=dev.to&logoColor=white" /></a> <a href="https://codesandbox.io/u/mohammad-mghn" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandBox-20757d.svg?&style=for-the-badge&logo=CodeSandBox&logoColor=white" /></a> 
