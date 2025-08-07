@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+    <img src="https://emojis.slackmojis.com/emojis/images/1597139481/10003/catjam.gif?1597139481" width="30" />
   Dev Swag 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
