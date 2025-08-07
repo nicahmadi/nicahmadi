@@ -14,7 +14,7 @@
 </div>
 
 <h2>About Me 📖</h2>
-
+<hr>
 <b>
   <p>
     I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think. From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.<br><br>
@@ -22,7 +22,8 @@
   </p>
 </b>
 
-<h3>Skills & Tools</h3>
+<h2>Skills & Tools</h2>
+<hr>
 <div>
   <!-- Languages -->
   <h3>Languages</h3>
@@ -37,7 +38,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="48" title="C++">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="C#">
  
-
   <!-- Frameworks -->
   <h3>Frameworks</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" title="Android">
