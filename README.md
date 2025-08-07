@@ -1,13 +1,8 @@
-<h1 style="color: #00ffcc; text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 20px #ff00ff; display: inline-flex; align-items: center; animation: glow 1.5s ease-in-out infinite alternate;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-bottom:-4px;margin-right:4px"/>
-  Skill Showcase
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
+  Dev Swag 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
-<style>
-  @keyframes glow {
-    from { text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 20px #ff00ff; }
-    to { text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #ff00ff; }
-  }
-</style>
 
 <a href="https://mghn.info"><img src="github.profile.ts.png" alt="Click to visit my portfolio"></a>
 
