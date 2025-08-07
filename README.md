@@ -1,6 +1,6 @@
 <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1597139481/10003/catjam.gif?1597139481" width="30" />
-  Dev Swag 
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" />
+	Chupapy Munayno!
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
 
