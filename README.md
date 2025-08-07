@@ -20,11 +20,10 @@
 
 <b>
   <p>
-    I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think.From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.Let’s turn your ideas into real, working solutions.
-    <a href="mailto:nicahmadi99@gmail.com">Let’s build something real. 📩</a>
+    I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think. From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.<br><br>
+    Let’s turn your ideas into real, working solutions. <a href="mailto:nicahmadi99@gmail.com">Let’s connect 📩</a>
   </p>
 </b>
-
 
 <h3><a href="https://mghn.info">More on My Portfolio</a></h3>
 
