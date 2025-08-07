@@ -1,6 +1,7 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" />
 	Ayy, look who’s here!
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
 
 <a href="https://mghn.info"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
@@ -24,7 +25,6 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
 <h2>My Current Tech Stack 🚀</h2>
 
 <h3>Skills & Tools</h3>
-
 <div>
   <!-- Languages -->
   <h3>Languages</h3>
@@ -33,6 +33,11 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48" title="Dart">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="48" title="Kotlin">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="C#">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
 
   <!-- Frameworks -->
   <h3>Frameworks</h3>
@@ -42,6 +47,9 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="48" title="TensorFlow">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="48" title="OpenCV">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="48" title="Unity">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" width="48" title="PyTorch">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="48" title="ScikitLearn">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="Tailwind CSS">
 
   <!-- Tools -->
   <h3>Tools</h3>
@@ -49,6 +57,8 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" width="48" title="Anaconda">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="48" title="Gradle">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="48" title="Maven">
 
   <!-- IDEs -->
   <h3>IDEs</h3>
@@ -57,6 +67,7 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width="48" title="PyCharm">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VS Code">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="48" title="Eclipse">
 
   <!-- Platforms -->
   <h3>Platforms</h3>
@@ -67,6 +78,9 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="48" title="Kali Linux">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="48" title="Ubuntu">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="48" title="Windows">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" width="48" title="Heroku">
 
   <!-- Design -->
   <h3>Design</h3>
@@ -74,12 +88,20 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Photoshop">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="48" title="Premiere Pro">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" title="Illustrator">
 
   <!-- Hardware -->
   <h3>Hardware</h3>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="48" title="Arduino">
-</div>
 
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">
+
+  <!-- CMS -->
+  <h3>CMS</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="WordPress">
+</div>
 </div>
 
 <h2>Support Me 🫠</h2>
