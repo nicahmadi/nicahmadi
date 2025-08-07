@@ -22,7 +22,6 @@
 </b>
 
 <h2>Skills & Tools</h2>
-<hr>
 <div>
   <!-- Languages -->
   <h3>Languages</h3>
