@@ -1,106 +1,105 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" alt="catjam" /> Ayy, look who’s here!
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" />
+	Ayy, look who’s here!
+</h1>
 
-[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-applicore.ir-4a90e2?style=for-the-badge&logo=appveyor&logoColor=white)](https://applicore.ir)
-
----
+<a href="https://applicore.ir"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
 
 <div align="center">
-
-[![X (Twitter)](https://img.shields.io/badge/(_twitter_)-%23151B23.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nicahmadi)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-29146b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicahmadi/)  
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-ff9900?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13850091/nick-ahmadi)  
-[![Instagram](https://img.shields.io/badge/Instagram-e33811?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicahmadi/)
-
+<a href="https://x.com/nicahmadi" target="_blank"><img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/nicahmadi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://https://stackoverflow.com/users/13850091/nick-ahmadi" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> 
+<a href="https://www.instagram.com/nicahmadi/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </div>
 
----
+<h2>About Me 📖</h2>
 
-## About Me 📖
+<b>
+  <p>
+    I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think. From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.<br><br>
+    Let’s turn your ideas into real, working solutions. <a href="mailto:nicahmadi99@gmail.com">Let’s connect 📩</a>
+  </p>
+</b>
 
-> **I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think.**  
-> From native performance tuning to training deep learning models and building smart IoT devices — I build systems that run fast and scale smart.  
->  
-> Let’s turn your ideas into real, working solutions.  
-> [📩 Get in Touch](mailto:nicahmadi99@gmail.com)
+<h3><a href="https://applicore.ir">More on My Portfolio</a></h3>
 
----
+<h2>My Current Tech Stack 🚀</h2>
 
-## More on My Portfolio
+<h3>Skills & Tools</h3>
+<div>
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="48" title="Kotlin">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48" title="Dart">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" title="PHP">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="48" title="C">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="48" title="C++">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="48" title="C#">
+ 
 
-🔗 [Visit applicore.ir](https://applicore.ir)
+  <!-- Frameworks -->
+  <h3>Frameworks</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" title="Android">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ktor-Dark.svg" width="48" title="Ktor">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48" title="Flutter">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" title="Laravel">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="Tailwind CSS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="48" title="OpenCV">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="48" title="TensorFlow">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" width="48" title="PyTorch">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="48" title="ScikitLearn">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="48" title="Unity">
 
----
+  <!-- Tools -->
+  <h3>Tools</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="48" title="Gradle">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="48" title="Maven">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" width="48" title="Anaconda">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="48" title="Arduino">
 
-## My Current Tech Stack 🚀
+  <!-- IDEs -->
+  <h3>IDEs</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" title="Android Studio">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" title="IntelliJ IDEA">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width="48" title="PyCharm">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="48" title="Eclipse">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VS Code">
 
-### Languages  
-![Kotlin](https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg)  
-![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)  
-![Dart](https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg)  
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)  
-![PHP](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg)  
-![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)  
-![CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)  
-![C](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)  
-![C++](https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg)  
-![C#](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)
+  <!-- Platforms -->
+  <h3>Platforms</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="WordPress">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="GitHub">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="48" title="GitLab">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="Stack Overflow">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="48" title="Ubuntu">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="48" title="Windows">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="48" title="Kali Linux">
 
-### Frameworks  
-![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg)  
-![Ktor](https://github.com/tandpfun/skill-icons/blob/main/icons/Ktor-Dark.svg)  
-![Flutter](https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg)  
-![Laravel](https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg)  
-![TailwindCSS](https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg)  
-![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)  
-![OpenCV](https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg)  
-![TensorFlow](https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg)  
-![PyTorch](https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg)  
-![ScikitLearn](https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg)  
-![Unity](https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg)
+  <!-- Design -->
+  <h3>Design</h3>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Photoshop">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" title="Illustrator">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="48" title="Premiere Pro">
+</div>
 
-### Tools  
-![Git](https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg)  
-![Gradle](https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg)  
-![Maven](https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg)  
-![Docker](https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg)  
-![Postman](https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg)  
-![Anaconda](https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg)  
-![Arduino](https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg)
+<h2>Support Me ❤️</h2>
 
-### IDEs  
-![Android Studio](https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg)  
-![IntelliJ IDEA](https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg)  
-![PhpStorm](https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg)  
-![PyCharm](https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg)  
-![Eclipse](https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg)  
-![VS Code](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg)
-
-### Platforms  
-![Firebase](https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg)  
-![WordPress](https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg)  
-![GitHub](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg)  
-![GitLab](https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg)  
-![Stack Overflow](https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg)  
-![Discord](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg)  
-![Linux](https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg)  
-![Ubuntu](https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg)  
-![Windows](https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg)  
-![Kali Linux](https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg)
-
-### Design  
-![Figma](https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg)  
-![Adobe XD](https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg)  
-![Photoshop](https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg)  
-![Illustrator](https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg)  
-![Premiere Pro](https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg)
-
----
-
-## Support Me ❤️
-
-[![Buy Me Coffee](https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg)](https://www.coffeebede.com/nicahmadi)
-
----
-
-*Crafted with ❤️ by Nic Ahmadi*
-
+<div style="display:flex;">
+  <a href="https://www.coffeebede.com/nicahmadi">
+      <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
+  </a>
+</div>
