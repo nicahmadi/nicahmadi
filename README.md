@@ -1,7 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" />
-	Chupapy Munayno!
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
+	Ayy, look who’s here!
 </h1>
 
 <a href="https://mghn.info"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
