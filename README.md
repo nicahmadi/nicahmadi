@@ -1,5 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-bottom:-4px;margin-right:4px"/>Hey! How you doing?</h1>
-
+<h1 style="color: #00ffcc; text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 20px #ff00ff; display: inline-flex; align-items: center; animation: glow 1.5s ease-in-out infinite alternate;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-bottom:-4px;margin-right:4px"/>
+  Skill Showcase
+</h1>
+<style>
+  @keyframes glow {
+    from { text-shadow: 0 0 5px #00ffcc, 0 0 10px #00ffcc, 0 0 20px #ff00ff; }
+    to { text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #ff00ff; }
+  }
+</style>
 
 <a href="https://mghn.info"><img src="github.profile.ts.png" alt="Click to visit my portfolio"></a>
 
@@ -78,40 +86,6 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="48" title="Arduino">
 </div>
 
-<h3>Currently Advancing My Skills In</h3>
-<div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.js">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="JavaScript">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"> 
-</div>
-
-<h3>Planning to Learn</h3>
-<div>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" width="48" title="Three.js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="48" title="Nuxt.js">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" width="48" title="Svelte">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="48" title="Vue.js"> 
-</div>
-
-<h2>Latest Blog Posts 💬</h2>
-
-<div>
-
-<!-- BLOG-POST-LIST:START -->
-- [TailwindCSS's Class Order Pattern: Best Practices 🍃](https://dev.to/vitomohagheghian/tailwindcsss-classes-order-pattern-best-practice-1g1)
-- [Auto Dev.to Posts Updater on GitHub README](https://dev.to/vitomohagheghian/auto-blogs-posts-updater-on-github-readme-3d0h)
-- [The Best Way to Import Images in React.js and Next.js 🚀](https://dev.to/vitomohagheghian/the-best-way-to-import-images-in-reactjs-and-nextjs-eop)
-- [The Easiest Way to Create React NPM Packages](https://dev.to/vitomohagheghian/the-easiest-way-to-create-react-npm-packages-2d9l)
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
-<h2>Open Source Projects I Own 🐙</h2>
-
-<div>
-<a href="https://github.com/mohammad-mghn/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=wins-11&theme=github_dark&hide_border=true&show_icons=true&bg_color=00000000"></a> <a href="https://github.com/mohammad-mghn/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=dev-tab&theme=github_dark&hide_border=true&"></a>
-</div>
-
-<h2>Open Source Projects I've Contributed To 🐙</h2>
-
-<div>
-<a href="https://github.com/widgetify-app/widgetify-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=widgetify-app&repo=widgetify-extension&theme=github_dark&hide_border=true"></a>
-<a href="https://github.com/AmruthPillai/Reactive-Resume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmruthPillai&repo=Reactive-Resume&theme=github_dark&hide_border=true&name=widgetify&"></a>
 </div>
 
 <h2>Support Me 🫠</h2>
