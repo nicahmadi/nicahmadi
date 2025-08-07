@@ -14,7 +14,6 @@
 </div>
 
 <h2>About Me 📖</h2>
-<hr>
 <b>
   <p>
     I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think. From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.<br><br>
