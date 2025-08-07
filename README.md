@@ -4,7 +4,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" />
 </h1>
 
-<a href="https://applicore.ir"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
+<a href="https://mghn.info"><img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
 
 <div align="center">
 <a href="https://x.com/nicahmadi" target="_blank"><img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
@@ -20,13 +20,13 @@
 
 <b>
   <p>
-    I’m a dedicated <strong>Software Engineer</strong> with a core focus on <strong>Android development</strong> and solid experience in <strong>Laravel backend</strong>, <strong>machine learning</strong>, <strong>computer vision</strong>, and <strong>IoT</strong> systems. 🧠📱<br><br>
-    My engineering journey is driven by a deep passion for building efficient, scalable, and maintainable systems that go beyond just code — solving complex problems and delivering real-world impact. ⚙️🌐<br><br>
-    With a background in both academic research and hands-on product development, I enjoy working at the intersection of mobile technologies, AI, and embedded systems. Whether it’s optimizing Android internals, crafting RESTful APIs in Laravel, or training deep learning models, I strive to bring precision and purpose to every project. 🤖🚀<br><br>
-    <em>I’m not a front-end developer — my focus lies in backend logic, native Android performance, and intelligent systems that power smart applications.</em><br><br>
-    <a href="mailto:vito.mohagheghian@gmail.com">Let’s build something that matters. 📩</a>
+    I’m a Software Engineer crafting powerful Android apps, robust Laravel backends, and intelligent systems that actually think. 🤖📱<br><br>
+    From native performance tuning to training deep learning models and building smart IoT devices, I build systems that run fast and scale smart.⚡🌐<br><br>
+    I don’t do pretty buttons — I do the logic that makes them work.<br><br>
+    <a href="mailto:nicahmadi99@gmail.com">Let’s build something real. 📩</a>
   </p>
 </b>
+
 
 <h3><a href="https://mghn.info">More on My Portfolio</a></h3>
 
