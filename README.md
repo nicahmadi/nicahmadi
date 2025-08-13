@@ -1,13 +1,21 @@
 <img src="nicahmadi99@gmail.png" alt="Click to visit my portfolio"></a>
 
 <div align="center">
-<a href="https://x.com/nicahmadi" target="_blank"><img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/nicahmadi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://stackoverflow.com/users/13850091/nick-ahmadi" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> 
-<a href="https://www.instagram.com/nicahmadi/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-<a href="https://www.youtube.com/channel/UCs06pEBt3MA8suVKvfgUJxA" target="_blank">
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-nicahmadi-red?&style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+  <a href="https://x.com/nicahmadi" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/nicahmadi/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://stackoverflow.com/users/13850091/nick-ahmadi" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-ff9900?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/nicahmadi/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-e33811?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+  <a href="https://www.youtube.com/channel/UCs06pEBt3MA8suVKvfgUJxA" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
 </div>
 
 <h2>About Me 📖</h2>
