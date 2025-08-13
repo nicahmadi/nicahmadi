@@ -1,4 +1,4 @@
-<h1>Hey! Let's build something awesome</h1>
+<h1>“Winter is coming… better commit your code!” – Game of Thrones</h1>
 
 <img src="nicahmadi99@gmail.png" alt="Click to visit my portfolio"></a>
 
