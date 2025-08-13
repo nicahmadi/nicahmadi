@@ -3,7 +3,7 @@
 	Ayy, look who’s here!
 </h1>
 
-<img src="nicahmadi99@gmail.com.png" alt="Click to visit my portfolio"></a>
+<img src="nicahmadi99@gmail_com.png" alt="Click to visit my portfolio"></a>
 
 <div align="center">
 <a href="https://x.com/nicahmadi" target="_blank"><img alt="X" src="https://img.shields.io/badge/(_twitter_)-%23151B23.svg?&style=for-the-badge&logo=x&logoColor=white" /></a> 
