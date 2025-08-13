@@ -30,6 +30,7 @@
 <div>
   <!-- Languages -->
   <h3>Languages</h3>
+  <p>Proficient in a range of programming languages used for developing mobile applications, backend services, and machine learning models, ensuring efficient and maintainable code across various projects.</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="48" title="Kotlin">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48" title="Dart">
@@ -43,6 +44,7 @@
  
   <!-- Frameworks -->
   <h3>Frameworks</h3>
+  <p>Experienced with frameworks for building scalable mobile apps, web backends, and AI-driven solutions, focusing on performance optimization and seamless integration in real-world applications.</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" title="Android">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ktor-Dark.svg" width="48" title="Ktor">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48" title="Flutter">
@@ -57,6 +59,7 @@
 
   <!-- Tools -->
   <h3>Tools</h3>
+  <p>Utilize essential tools for version control, dependency management, containerization, and data analysis to streamline development workflows and enhance project efficiency.</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="48" title="Gradle">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="48" title="Maven">
@@ -67,6 +70,7 @@
 
   <!-- IDEs -->
   <h3>IDEs</h3>
+  <p>Leverage integrated development environments tailored for Android, web, and AI development to accelerate coding, debugging, and deployment processes.</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" title="Android Studio">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="48" title="IntelliJ IDEA">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="48" title="PhpStorm">
@@ -76,6 +80,7 @@
 
   <!-- Platforms -->
   <h3>Platforms</h3>
+  <p>Work across cloud services, version control platforms, and operating systems to support collaborative development and cross-platform compatibility in software projects.</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="WordPress">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="GitHub">
@@ -89,6 +94,7 @@
 
   <!-- Design -->
   <h3>Design</h3>
+  <p>Employ design tools for creating user interfaces and visual assets, supporting the full lifecycle of app and web development from prototyping to final production.</p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" title="Adobe XD">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Photoshop">
